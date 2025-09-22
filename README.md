@@ -21,3 +21,7 @@ Implementacion de un sorteo aleatorio para encontrar al amigo ganador de una lis
 ## Despliegue
 
 Usando Live Server o abriendo directamente el archivo `index.html` podras visualizar el proyecto.
+
+## View
+Puedes visualizar el proyecto en 
+https://brandpm18.github.io/Challenge-Amigo-secreto/
